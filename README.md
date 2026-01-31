@@ -19,31 +19,12 @@
 
 <br/>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="450" valign="top">
-      <h3 align="center">⚡ Vibe Check</h3>
-      <div align="center">
-         <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=18&pause=1000&color=2CB67D&center=true&vCenter=true&width=350&lines=Writing+code+that+matters.;Design+with+passion.;Exploring+the+unknown." alt="Bio Typing SVG" />
-          </a>
-      </div>
-      <br/>
-      <h3 align="center">🛠️ Tech Arsenal</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,nodejs,python,cpp,arduino,linux,git,github,vscode,bootstrap&perline=6" />
-      </div>
-    </td>
-    <td width="400" valign="top">
-      <h3 align="center">📊 The Data</h3>
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=N0b0jit&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&rank_icon=github" height="180" alt="stats" />
-        <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0b0jit&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="140" alt="languages" />
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h3 align="center">📊 The Data</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=N0b0jit&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&rank_icon=github" height="180" alt="stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0b0jit&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="140" alt="languages" />
+</div>
 
 <br/>
 
