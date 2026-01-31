@@ -10,8 +10,9 @@
 
 <br/>
 
-
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,nodejs,python,cpp,arduino,linux,git,github,vscode,bootstrap&perline=7" />
+</div>
 <br/>
 
 <div align="center">
