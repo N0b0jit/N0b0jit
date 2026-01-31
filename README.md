@@ -42,11 +42,19 @@
 </div>
 
 <br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="20" />
+</div>
+<br/>
 
 <div align="center">
   <details>
     <summary><b>💻 My Gear & Setup</b></summary>
     <br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="20" />
+</div>
+<br/>
     <ul>
       <li><b>OS:</b> Windows 11 Pro / Kali Linux</li>
       <li><b>Code Editor:</b> VS Code (Dracula Theme)</li>
@@ -58,7 +66,15 @@
 </div>
 
 <br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="20" />
+</div>
+<br/>
 
+<br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="20" />
+</div>
 <br/>
 
 <div align="center">
@@ -66,6 +82,10 @@
   <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
 </div>
 
+<br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="20" />
+</div>
 <br/>
 
 <div align="center">
@@ -77,6 +97,10 @@
 </div>
 
 <br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="20" />
+</div>
+<br/>
 
 <div align="center">
 <!-- GUESTBOOK_START -->
@@ -84,17 +108,29 @@
 </div>
 
 <br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="20" />
+</div>
+<br/>
 
 <div align="center">
   <img src="https://count.getloli.com/@:N0b0jit?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 <br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="20" />
+</div>
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
+<br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="20" />
+</div>
 <br/>
 
 <div align="center">
