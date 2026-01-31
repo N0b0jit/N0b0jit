@@ -87,3 +87,17 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
+
+<br/>
+
+<div align="center">
+ <details>
+    <summary><b>🚫 Don't Click Me</b></summary>
+    <br/>
+    <div align="center">
+       <h3>You are curious. I like that. 👀</h3>
+       <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="300" />
+       <p><i>"The code is strong with this one."</i></p>
+    </div>
+ </details>
+</div>
