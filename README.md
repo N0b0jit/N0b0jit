@@ -59,14 +59,14 @@
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:maurodesouzas?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+  <img src="https://count.getloli.com/@:N0b0jit?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouzas/maurodesouzas/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/N0b0jit/maurodesouzas/output/snake.svg" alt="Snake animation" />
 
 ###
 
