@@ -1,0 +1,11 @@
+name: Sign Guestbook
+description: Leave your mark on my README!
+title: "Sign Guestbook: @N0b0jit"
+labels: ["guestbook"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### Welcome to the Guestbook!
+        Just click **Submit new issue** below to add your avatar to my profile!
+        (Please do not change the title)

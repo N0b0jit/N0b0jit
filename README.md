@@ -59,6 +59,25 @@
 
 <br/>
 
+<br/>
+
+<div align="center">
+  <h3>🤝 Community Guestbook</h3>
+  <p>Leave your mark on my profile! Click the button below to sign.</p>
+  <a href="https://github.com/N0b0jit/N0b0jit/issues/new?template=guestbook.yml&title=Sign+Guestbook:+@N0b0jit">
+    <img src="https://img.shields.io/badge/Sign%20Guestbook-Leave%20a%20Mark-2ea44f?style=for-the-badge&logo=github" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+<!-- GUESTBOOK_START -->
+<!-- GUESTBOOK_END -->
+</div>
+
+<br/>
+
 <div align="center">
   <img src="https://count.getloli.com/@:N0b0jit?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>

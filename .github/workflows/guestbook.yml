@@ -1,0 +1,92 @@
+name: Update Guestbook
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  sign-guestbook:
+    if: contains(github.event.issue.labels.*.name, 'guestbook')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Add User to Guestbook
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const fs = require('fs');
+            const readmePath = 'README.md';
+            const user = context.payload.issue.user;
+            const avatarUrl = user.avatar_url;
+            const profileUrl = user.html_url;
+            const username = user.login;
+            
+            // Format the entry as a circular image with link
+            const entry = `<a href="${profileUrl}"><img src="${avatarUrl}" width="50" style="border-radius: 50%; margin: 5px;" alt="${username}"/></a>`;
+            
+            try {
+              let readme = fs.readFileSync(readmePath, 'utf8');
+              
+              const startMarker = '<!-- GUESTBOOK_START -->';
+              const endMarker = '<!-- GUESTBOOK_END -->';
+              
+              const startIndex = readme.indexOf(startMarker);
+              const endIndex = readme.indexOf(endMarker);
+              
+              if (startIndex !== -1 && endIndex !== -1) {
+                const contentBefore = readme.substring(0, startIndex + startMarker.length);
+                const guestbookContent = readme.substring(startIndex + startMarker.length, endIndex);
+                const contentAfter = readme.substring(endIndex);
+                
+                // Check if user is already in the guestbook (simple check by profile URL)
+                if (!guestbookContent.includes(profileUrl)) {
+                   const newContent = contentBefore + '\n' + entry + guestbookContent + contentAfter;
+                   fs.writeFileSync(readmePath, newContent);
+                   console.log("Guestbook updated with new user.");
+                   
+                   // Prepare to commit
+                   await exec.exec('git', ['config', '--global', 'user.email', '41898282+github-actions[bot]@users.noreply.github.com']);
+                   await exec.exec('git', ['config', '--global', 'user.name', 'github-actions[bot]']);
+                   await exec.exec('git', ['add', 'README.md']);
+                   await exec.exec('git', ['commit', '-m', `chore: Add @${username} to guestbook`]);
+                   await exec.exec('git', ['push']);
+                   
+                   // Comment and Close Issue
+                   await github.rest.issues.createComment({
+                     owner: context.repo.owner,
+                     repo: context.repo.repo,
+                     issue_number: context.issue.number,
+                     body: `Welcome to the Guestbook @${username}! 🚀 Your avatar is now live on the wall.`
+                   });
+                   
+                   await github.rest.issues.update({
+                     owner: context.repo.owner,
+                     repo: context.repo.repo,
+                     issue_number: context.issue.number,
+                     state: 'closed'
+                   });
+                   
+                } else {
+                   console.log("User already exists in guestbook.");
+                   await github.rest.issues.createComment({
+                     owner: context.repo.owner,
+                     repo: context.repo.repo,
+                     issue_number: context.issue.number,
+                     body: `Hey @${username}, you are already on the wall! 🎉`
+                   });
+                   await github.rest.issues.update({
+                     owner: context.repo.owner,
+                     repo: context.repo.repo,
+                     issue_number: context.issue.number,
+                     state: 'closed'
+                   });
+                }
+              }
+            } catch (error) {
+              console.log(error);
+              core.setFailed(error.message);
+            }
