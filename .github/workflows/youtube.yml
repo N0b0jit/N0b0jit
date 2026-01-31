@@ -16,6 +16,6 @@ jobs:
           comment_tag_name: "YOUTUBE"
           # ⚠️ IMPORTANT: YOU MUST REPLACE THE CHANNEL ID BELOW WITH YOUR REAL ID
           # You can find it by going to your channel -> About -> Share -> Copy Channel ID
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC_REPLACE_THIS_WITH_YOUR_ID" 
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCAxg_BK3X8-58KCnVe4rvuQ" 
           max_post_count: 4
           template: "$newline- [$title]($url)"
