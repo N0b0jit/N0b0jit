@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Nobojit%20Majumder&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Creator&descAlignY=55&descSize=25&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Nobojit%20Majumder&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Vibe%20Coder%20%7C%20Tech%20Enthusiast%20%7C%20Creator&descAlignY=55&descSize=25&fontColor=ffffff"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=338294&center=true&vCenter=true&width=435&lines=Building+Code+That+Matters;Exploring+New+Technologies;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=338294&center=true&vCenter=true&width=435&lines=Coding+with+a+Vibe;Crafting+Digital+Experiences;Turning+Ideas+Into+Reality" alt="Typing SVG" />
   </a>
 </div>
 
@@ -19,13 +19,13 @@
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=N0b0jit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0b0jit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=N0b0jit&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0b0jit&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="languages" />
 </div>
 
 <div align="center">
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N0b0jit&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N0b0jit&theme=radical&hide_border=true&background=0D1117" alt="streak" />
 </div>
 
 <br/>
