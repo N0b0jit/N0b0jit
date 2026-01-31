@@ -34,6 +34,31 @@
 
 <br/>
 
+<!-- YouTube Section -->
+<div align="center">
+  <h3>📺 Latest Content</h3>
+  <!-- YOUTUBE:START -->
+  <!-- YOUTUBE:END -->
+</div>
+
+<br/>
+
+<div align="center">
+  <details>
+    <summary><b>💻 My Gear & Setup</b></summary>
+    <br/>
+    <ul>
+      <li><b>OS:</b> Windows 11 Pro / Kali Linux</li>
+      <li><b>Code Editor:</b> VS Code (Dracula Theme)</li>
+      <li><b>Terminal:</b> PowerShell 7 / Oh My Posh</li>
+      <li><b>Browser:</b> Chrome / Brave</li>
+      <li><b>Coffee:</b> Black, no sugar ☕</li>
+    </ul>
+  </details>
+</div>
+
+<br/>
+
 <div align="center">
   <img src="https://count.getloli.com/@:N0b0jit?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
