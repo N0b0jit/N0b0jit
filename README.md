@@ -10,21 +10,7 @@
 
 <br/>
 
-<div align="center">
-  <!-- 3D Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=N0b0jit&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
-</div>
 
-<br/>
-
-<div align="center">
-  <h3 align="center">📊 The Data</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=N0b0jit&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&rank_icon=github" height="180" alt="stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0b0jit&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="140" alt="languages" />
-</div>
 
 <br/>
 
