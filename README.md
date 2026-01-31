@@ -96,7 +96,7 @@
     <br/>
     <div align="center">
        <h3>You are curious. I like that. 👀</h3>
-       <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="300" />
+       <img src="https://raw.githubusercontent.com/N0b0jit/N0b0jit/main/assets/easter_egg.png" width="300" />
        <p><i>"The code is strong with this one."</i></p>
     </div>
  </details>
