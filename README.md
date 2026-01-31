@@ -17,16 +17,7 @@
 
 <br/>
 
-<div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=N0b0jit&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0b0jit&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="languages" />
-</div>
 
-<div align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N0b0jit&theme=radical&hide_border=true&background=0D1117" alt="streak" />
-</div>
 
 <br/>
 
