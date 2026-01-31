@@ -38,6 +38,12 @@
 <br/>
 
 <div align="center">
+  <img src="https://count.getloli.com/@:N0b0jit?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
+<br/>
+
+<div align="center">
   <!-- Social Links -->
   <a href="https://linkedin.com/in/nobojit-majumder-20713a333" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
