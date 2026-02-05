@@ -1,8 +1,3 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7F5AF0&center=true&vCenter=true&width=500&lines=%3E+initializing_vibe...;%3E+loading_profile...;%3E+status:+ONLINE;%3E+hello_world!" alt="Terminal Typing SVG" />
-  </a>
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Nobojit%20Majumder&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Vibe%20Coder%20%7C%20Creator%20%7C%20Builder&descAlignY=60&descSize=20&fontColor=ffffff&customColorList=0-10,12-25,27-40"/>
