@@ -127,6 +127,13 @@
 
 <br>
 
+<!-- ═══════════════════════════ VISITOR COUNTER ═══════════════════════════ -->
+<div align="center">
+  <img src="https://count.getloli.com/@:N0b0jit?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="Profile Views" />
+</div>
+
+<br>
+
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=fadeIn" alt="Footer"/>
