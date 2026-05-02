@@ -3,11 +3,11 @@
 <!-- ╚════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=300&section=header&text=N0b0jit%20Majumder&fontSize=85&fontColor=fff&animation=blinking&fontAlignY=32&stroke=00d4ff&strokeWidth=2&desc=Full-Stack%20Dev%20%7C%20Tech%20Enthusiast%20%7C%20Open%20Source%20Contributor&descSize=22&descAlignY=58&descColor=f8f8f2" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d4ff,100:2ea44f&height=280&section=header&text=N0b0jit%20Majumder&fontSize=85&fontColor=fff&animation=twinkling&fontAlignY=35&stroke=00d4ff&strokeWidth=3&desc=Full-Stack%20Dev%20%7C%20Tech%20Enthusiast%20%7C%20Open%20Source%20Contributor&descSize=22&descColor=f8f8f2" alt="Header"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&color=00D4FF&center=true&vCenter=true&width=650&height=80&lines=🚀+Building+the+Future+One+Commit+At+A+Time;💻+Full-Stack+Developer;✨+Crafting+Digital+Experiences;🌱+Exploring+AI/ML+%26+Cloud;☕+Powered+by+Coffee+%26+Lo-fi" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Full-Stack+Developer;%F0%9F%92%BB+Building+Digital+Experiences;%F0%9C%8C%9F%EF%B8%8F+Crafting+Code+Wonders;%F0%9F%92%A1+Exploring+AI%2FML+%26+Cloud" alt="Typing Animation"/>
 </div>
 
 <br>
