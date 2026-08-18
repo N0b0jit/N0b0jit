@@ -69,7 +69,7 @@
 <br>
 
 <div align="center">
-  <img src="https://count.getloli.com/@:N0b0jit?theme=booru-koe&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=N0b0jit&color=blueviolet&style=flat-square" alt="profile views" />
 </div>
 
 <br clear="both">
