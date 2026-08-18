@@ -53,11 +53,11 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=footer&reversal=false&text=Thank%20you&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=20&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=blur&height=100&section=footer&reversal=false&text=I'm%20Nobojit&fontSize=80&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight" width="100%" />
 
 <br>
 
-<div align="left">
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0b0jit&layout=compact&langs_count=5&theme=dracula" height="150" alt="top languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=N0b0jit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats graph"  />
 </div>
@@ -101,4 +101,4 @@ Sign the guestbook by [opening an issue](https://github.com/N0b0jit/N0b0jit/issu
 
 <br clear="both">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=footer&reversal=false&text=Thank%20you&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=20&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=footer&reversal=false&text=I&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=20&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" width="100%" />
