@@ -53,6 +53,10 @@
 
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=footer&reversal=false&text=Thank%20you&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=20&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" width="100%" />
+
+<br>
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0b0jit&layout=compact&langs_count=5&theme=dracula" height="150" alt="top languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=N0b0jit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats graph"  />
